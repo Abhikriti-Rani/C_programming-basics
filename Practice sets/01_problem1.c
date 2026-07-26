@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main(){
-    int length=12;
-    int breadth=22;
+    int length=10;
+    int breadth=20;
     printf("The area of rectangle is %d", length*breadth);     
     return 0;}
